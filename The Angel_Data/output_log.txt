@@ -1,0 +1,112 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   24.21.13.9835
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Desktop\The little Angel\The Angel_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Desktop\The little Angel\The Angel_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Desktop\The little Angel\The Angel_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 47.896999 ms
+The referenced script on this Behaviour (Game Object 'enemy1 (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1 (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1 (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.230900 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 663.
+Total: 5.752400 ms (FindLiveObjects: 0.058900 ms CreateObjectMapping: 0.036000 ms MarkObjects: 0.391100 ms  DeleteObjects: 5.265300 ms)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'enemy1 (2)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1 (3)') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'enemy1 (1)') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.365200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 663.
+Total: 0.707000 ms (FindLiveObjects: 0.086800 ms CreateObjectMapping: 0.052400 ms MarkObjects: 0.543900 ms  DeleteObjects: 0.022500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.696200 ms
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 1.778200 ms (FindLiveObjects: 0.044800 ms CreateObjectMapping: 0.021400 ms MarkObjects: 0.265100 ms  DeleteObjects: 1.446000 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2738 -> priority: 1 
+  Thread -> id: d50 -> priority: 1 
+  Thread -> id: 24a8 -> priority: 1 
+  Thread -> id: 198c -> priority: 1 
